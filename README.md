@@ -23,7 +23,7 @@ Installation Guide
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-repo/DoneX.git
+git clone [https://github.com/Dailywork/DoneX.git]
 Open the project in Android Studio.
 Sync the project with Gradle files to download dependencies.
 Set up Firebase:
