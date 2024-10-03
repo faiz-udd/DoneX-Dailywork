@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951147169454",
+    "project_id": "dailywork-9cd27",
+    "storage_bucket": "dailywork-9cd27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951147169454:android:15ee273fed6fc5c7558f3f",
+        "android_client_info": {
+          "package_name": "com.example.dailywork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQEpLnujj2SHCeuCeoIfRYEIXlSVoHhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
